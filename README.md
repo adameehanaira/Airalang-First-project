@@ -1,12 +1,14 @@
 # 🛡️ AiraScan: Next-Gen Cyber Recon & Security Audit Tool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-AiraLang%20v1.4.0-brightgreen.svg" alt="AiraLang">
-  <img src="https://img.shields.io/badge/Category-Cyber%20Security%20%26%20Recon-blue.svg" alt="Recon">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-orange.svg" alt="Linux">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
-  <img src="https://img.shields.io/badge/Architect-Adam%20Eehan-purple.svg" alt="Adam Eehan">
+  <img src="https://img.shields.io/badge/Language-AiraLang%20100%25-00C853?style=for-the-badge&logoColor=white" alt="AiraLang 100%">
+  <img src="https://img.shields.io/badge/AiraLang-v1.4.0%20Cyber%20Edition-007ACC?style=for-the-badge" alt="v1.4.0">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-FF6F00?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Architect-Adam%20Eehan-7B1FA2?style=for-the-badge" alt="Adam Eehan">
 </p>
+
+> 👑 **100% Pure AiraLang Project**  
+> This tool is built entirely in **AiraLang** (`.aira`), the modern high-performance programming language designed by **Adam Eehan (Founder & CEO, Aira Group of Technology)**.
 
 ---
 
