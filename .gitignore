@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+airascan
+*.log
+.DS_Store
