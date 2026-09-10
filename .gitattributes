@@ -1,0 +1,3 @@
+# GitHub Linguist Custom Syntax Highlighting for AiraLang
+*.aira linguist-language=Python
+install.sh linguist-vendored=true
